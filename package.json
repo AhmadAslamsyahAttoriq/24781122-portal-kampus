@@ -1,0 +1,8 @@
+{
+  "name": "portal-kampus-latihan",
+  "version": "1.0.0",
+  "description": "Portal kampus sintetis untuk latihan keamanan web (sengaja rentan).",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
